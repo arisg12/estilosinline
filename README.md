@@ -1,9 +1,14 @@
 <html>
 <head>
-  <title>estilos basicos</title>
+  <meta charset="utf-8">
+	<title>CSS Inline</title>
 </head>
+  <body>
+<h1 style="color: red; margin-bottom: 10px; font-size: 40px;">Estilos in line</h1>
+p style="color: green; font-style: italic; background-color: yellow; padding: 20px;">Primero vamos a aprender Estilos in line.</p>
 
-
+</body>
+</html>
 <!-- Menú de navegación del sitio -->
 <ul class="navbar">
   <li><a href="àginaprincipal.html">Página principal</a>
